@@ -1,0 +1,20 @@
+c:\users\owner\documents\visual studio 2012\Projects\MathTutor\MathTutor\bin\Debug\MathTutor.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\MathTutor\MathTutor\bin\Debug\MathTutor.exe
+c:\users\owner\documents\visual studio 2012\Projects\MathTutor\MathTutor\bin\Debug\MathTutor.pdb
+c:\users\owner\documents\visual studio 2012\Projects\MathTutor\MathTutor\bin\Debug\MathTutor.xml
+c:\users\owner\documents\visual studio 2012\Projects\MathTutor\MathTutor\obj\Debug\MathTutor.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\MathTutor\MathTutor\obj\Debug\MathTutor.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\MathTutor\MathTutor\obj\Debug\MathTutor.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\MathTutor\MathTutor\obj\Debug\MathTutor.exe
+c:\users\owner\documents\visual studio 2012\Projects\MathTutor\MathTutor\obj\Debug\MathTutor.xml
+c:\users\owner\documents\visual studio 2012\Projects\MathTutor\MathTutor\obj\Debug\MathTutor.pdb
+E:\projects\MathTutor\MathTutor\bin\Debug\MathTutor.exe.config
+E:\projects\MathTutor\MathTutor\obj\Debug\MathTutor.exe
+E:\projects\MathTutor\MathTutor\obj\Debug\MathTutor.xml
+E:\projects\MathTutor\MathTutor\obj\Debug\MathTutor.pdb
+E:\projects\MathTutor\MathTutor\bin\Debug\MathTutor.exe
+E:\projects\MathTutor\MathTutor\bin\Debug\MathTutor.pdb
+E:\projects\MathTutor\MathTutor\bin\Debug\MathTutor.xml
+E:\projects\MathTutor\MathTutor\obj\Debug\MathTutor.Form1.resources
+E:\projects\MathTutor\MathTutor\obj\Debug\MathTutor.Resources.resources
+E:\projects\MathTutor\MathTutor\obj\Debug\MathTutor.vbproj.GenerateResource.Cache
